@@ -3,8 +3,11 @@ KaGaPa phonetic layout for Gujarati keyboard
 
 HOW TO USE?
 
-1. add contents of in_guj_kagapa file at the end of /usr/share/X11/xkb/symbols/in
-2. let your system know about this,
+1. add contents of in_guj_kagapa file at the end of /usr/share/X11/xkb/symbols/in, you can use below command as root user
+```
+cat in_guj_kagapa >> /usr/share/X11/xkb/symbols/in
+```
+3. let your system know about this,
 
 add this line
 
