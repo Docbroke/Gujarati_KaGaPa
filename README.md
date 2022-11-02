@@ -8,16 +8,18 @@ HOW TO USE?
 
 add this line
 
+  ```
   guj-kagapa      in: Gujarati (KaGaPa phonetic)
+```
 
 in two files, at appropriate place, ( after line starting with "guj" ), in /usr/share/X11/xkb/rules/base.lst and /usr/share/X11/xkb/rules/evdev.lst
 
 Restart and now you can use Gujarati KaGaPa keyboard using 
-
+```
   setxkbmap in guj-kagapa
-
+```
 You can revert back to us keyboard with
-
+```
    setxkbmap us
-   
+```   
 But don't ask me how to type that when you have activated gujarati keyboard. Have fun!!
