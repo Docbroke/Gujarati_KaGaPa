@@ -21,6 +21,10 @@ Restart and now you can use Gujarati KaGaPa keyboard using
 ```
   setxkbmap in guj-kagapa
 ```
+How to type:
+  characters are placed in four levels, to type level one just press the key, to type level2 use Shift+key, to type level 3 use AltGr+key, to type level 4 use AltGr+Shift+key.
+  There is image file to help find characters.
+
 You can revert back to us keyboard with
 ```
    setxkbmap us
