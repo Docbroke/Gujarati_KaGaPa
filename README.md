@@ -3,10 +3,18 @@ KaGaPa phonetic layout for Gujarati keyboard
 
 HOW TO USE?
 
+Gujarati KaGaPa keyboard is now included in xkeyboard package. Using this only requires
+
+```
+setxkbmap in guj-kagapa
+```
+
+[[ DOUBLE OUTDATED OLD INSTRUCTION ]]
+
 Xkeyboard now supports custom keymaps. So adding keymap is easy.
 Just copy contents of guj_kagapa file to /usr/share/X11/xkb/symbols/custom. If custom file does not exists just create it. Done.
 
-[[ OUTDATED OLD INSTRUCTION ]]
+[[ DOUBLE OUTDATED OLD INSTRUCTION ]]
 1. add contents of in_guj_kagapa file at the end of /usr/share/X11/xkb/symbols/in, you can use below command as root user
 ```
 cat in_guj_kagapa >> /usr/share/X11/xkb/symbols/in
@@ -26,7 +34,7 @@ Restart and now you can use Gujarati KaGaPa keyboard using
   setxkbmap in guj-kagapa
 ```
 
-[[ END OF OUTDATED INSTRUCTION ]]
+[[ END OF ALL OUTDATED INSTRUCTIONS ]]
 
 You can use Gujarati KaGaPa keyboard using
 ```
