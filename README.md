@@ -9,7 +9,7 @@ Gujarati KaGaPa keyboard is now included in xkeyboard package. Using this only r
 setxkbmap in guj-kagapa
 ```
 
-[[ DOUBLE OUTDATED OLD INSTRUCTION ]]
+[[ OUTDATED OLD INSTRUCTION ]]
 
 Xkeyboard now supports custom keymaps. So adding keymap is easy.
 Just copy contents of guj_kagapa file to /usr/share/X11/xkb/symbols/custom. If custom file does not exists just create it. Done.
