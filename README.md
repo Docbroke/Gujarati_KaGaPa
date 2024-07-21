@@ -9,7 +9,7 @@ Gujarati KaGaPa keyboard is now included in xkeyboard package. Using this only r
 setxkbmap in guj-kagapa
 ```
 
-[[ OUTDATED OLD INSTRUCTION ]]
+~~[[ OUTDATED OLD INSTRUCTION ]]
 
 Xkeyboard now supports custom keymaps. So adding keymap is easy.
 Just copy contents of guj_kagapa file to /usr/share/X11/xkb/symbols/custom. If custom file does not exists just create it. Done.
@@ -40,7 +40,7 @@ You can use Gujarati KaGaPa keyboard using
 ```
 setxkbmap custom guj-kagapa
 ```
-[[ END OF ALL OUTDATED INSTRUCTIONS ]]
+[[ END OF ALL OUTDATED INSTRUCTIONS ]]~~
 
 How to type:
   characters are placed in four levels, to type level one just press the key, to type level2 use Shift+key, to type level 3 use AltGr+key, to type level 4 use AltGr+Shift+key.
